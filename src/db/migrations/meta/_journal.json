@@ -8,6 +8,13 @@
       "when": 1750157406061,
       "tag": "0000_sour_blur",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1750157666413,
+      "tag": "0001_crazy_legion",
+      "breakpoints": true
     }
   ]
 }
